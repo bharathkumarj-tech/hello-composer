@@ -1,5 +1,6 @@
 {
     "name": "bharathkumar-j/hello-composer",
+    "version":"1.0.0",
     "description": "Sample testing composer package",
     "license": "MIT",
     "type":"library",
