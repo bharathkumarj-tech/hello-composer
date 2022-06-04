@@ -2,6 +2,7 @@
     "name": "bharathkumarj/hello-composer",
     "description": "Sample testing composer package",
     "license": "MIT",
+    "type":"library",
     "minimum-stability": "stable",
     "autoload": {
         "psr-4": {"OX\\Testing\\": "src/"}
