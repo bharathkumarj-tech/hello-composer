@@ -1,5 +1,5 @@
 {
-    "name": "bharathkumarj/hello-composer",
+    "name": "bharathkumar-j/hello-composer",
     "description": "Sample testing composer package",
     "license": "MIT",
     "type":"library",
