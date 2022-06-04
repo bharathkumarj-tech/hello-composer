@@ -1,13 +1,19 @@
 {
-    "name": "bharathkumar-j/hello-composer",
-    "version":"1.0.0",
-    "description": "Sample testing composer package",
-    "license": "MIT",
-    "type":"library",
-    "minimum-stability": "dev",
-    "prefer-stable": true,
-    "autoload": {
-        "psr-4": {"OX\\Testing\\": "src/"}
-    },
-    "require": {}
+  "name": "bharathkumar-j/hello-composer",
+  "type": "library",
+  "description": "Package built for my Package Tutorial.",
+  "homepage": "https://github.com/bharathkumar-j/hello-composer",
+  "license": "MIT",
+  "authors": [{
+    "name": "Bharath Kumar J",
+    "email": "kumarb084@gmail.com"
+  }],
+  "require": {
+    "php": ">=7.2"
+  },
+  "autoload": {
+    "psr-4": {
+      "OX\\Testing\\": "src/"
+    }
+  }
 }
