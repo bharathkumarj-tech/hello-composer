@@ -8,6 +8,7 @@
     "name": "Bharath Kumar J",
     "email": "kumarb084@gmail.com"
   }],
+  "minimum-stability": "dev",
   "require": {
     "php": ">=7.2"
   },
