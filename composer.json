@@ -8,10 +8,8 @@
     "name": "Bharath Kumar J",
     "email": "kumarb084@gmail.com"
   }],
-  "minimum-stability": "dev",
-  "prefer-stable": true,
   "require": {
-    "php": ">7.2"
+    "php": ">8.0.0"
   },
   "autoload": {
     "psr-4": {
