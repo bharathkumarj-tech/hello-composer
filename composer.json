@@ -9,6 +9,7 @@
     "email": "kumarb084@gmail.com"
   }],
   "minimum-stability": "dev",
+  "prefer-stable": true,
   "require": {
     "php": ">=7.2"
   },
